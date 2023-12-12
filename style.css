@@ -1,0 +1,11 @@
+
+ *{
+  cursor: hand;
+ }
+
+ @media screen and (max-width: 400pt) and(min-width: 600pt){
+    .top{
+        width: 250pt;
+    }
+ }
+ 
